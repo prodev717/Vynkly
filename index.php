@@ -45,10 +45,9 @@
 
   <footer class="w-full border-t border-gray-300 dark:border-gray-700 pt-4 pb-6 text-center text-sm text-gray-600 dark:text-gray-400">
     <p>
-      A product by 
-      <a target="_blank" href="https://www.instagram.com/teamx.vit/" class="hover:underline font-semibold">TeamX</a>. 
-      Developed by 
-      <a target="_blank" href="https://github.com/prodev717/" class="hover:underline font-semibold">Ganesh M</a>.
+      Made with ❤️ by 
+      <a target="_blank" href="https://github.com/prodev717/" class="hover:underline font-semibold">Ganesh M</a>, 
+      <a target="_blank" href="https://www.instagram.com/teamx.vit/" class="hover:underline font-semibold">TeamX</a>.
     </p>
   </footer>
 
