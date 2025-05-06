@@ -26,7 +26,7 @@ From groundbreaking capstone ideas to hackathon winners and research papers, Vyn
 
 ## 👨‍💻 Built By
 
-**[prodev717](https://github.com/prodev717)** with php
+**[prodev717](https://github.com/prodev717)** 
 
 ---
 
