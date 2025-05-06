@@ -20,13 +20,13 @@ From groundbreaking capstone ideas to hackathon winners and research papers, Vyn
 
 ## 🌐 Website
 
-🔗 [Visit Vynkly Here](http://vynkly.rf.gd)  
+🔗 [Visit Vynkly Here](http://vynkly.rf.gd) 
 
 ---
 
 ## 👨‍💻 Built By
 
-**[prodev717](https://github.com/prodev717)**   
+**[prodev717](https://github.com/prodev717)** with php
 
 ---
 
